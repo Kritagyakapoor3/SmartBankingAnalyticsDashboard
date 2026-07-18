@@ -1,0 +1,7 @@
+Conclusion
+
+1. The Banking Analytics Dashboard successfully integrates Excel, SQL, Python, and Power BI to transform raw banking data into meaningful business insights. Through interactive dashboards and analytical techniques, the project provides visibility into customer behavior, account performance, loan portfolios, credit risk, and banking product utilization.
+
+2. SQL analysis enabled efficient extraction of key business metrics, while Python was used for data cleaning, exploratory data analysis, and KPI generation. Power BI delivered interactive dashboards that support decision-making by presenting complex data in a clear and actionable format.
+
+3. Overall, this project demonstrates an end-to-end data analytics workflow—from data preparation and analysis to visualization and reporting—and highlights practical skills in business intelligence, SQL, Python, and Power BI. It showcases the ability to derive actionable insights from banking data and support informed business decisions, making it a strong portfolio project for aspiring Data Analysts.
